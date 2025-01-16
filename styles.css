@@ -9,13 +9,13 @@
 #table-1 td{
 	width:200px;
 }
-.t11{
+#t11{
 	text-align:left;
 }
-.t12{
+#t12{
 	text-align:center;
 }
-.t13{
+#t13{
 	text-align:right;
 }
 #table-2,tr,td{
