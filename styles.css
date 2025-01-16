@@ -1,6 +1,42 @@
 /*  your css code here. If applicable */
-table{
+#table-1,tr,td{
 	border:1px solid black;
+	border-collapse:collapse;
 	spacing:1px;
 	padding:1px;
+	
+}
+#table-1 td{
+	width:200px;
+}
+.t11{
+	text-align:left;
+}
+.t12{
+	text-align:center;
+}
+.t13{
+	text-align:right;
+}
+#table-2,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	spacing:1px;
+	padding:1px;
+}
+td{
+	width:100px;
+	height:15px;
+}
+#t-image{
+	text-align:center;
+}
+#table-3,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	spacing:1px;
+	padding:1px;
+}
+#table-3 td{
+	width:500px
 }
